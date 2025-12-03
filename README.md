@@ -10,15 +10,21 @@ This file explains **where to find everything**, how to run each part, and how t
 
 ## Repository Structure
 
-AI-Driven Wildlife Poaching Prevention System/
-│
-├── Module1/ → Bayesian Network for Poaching Risk Estimation
-├── Module2/ → Search-Based Ranger & Drone Patrol Routing
-├── Module3/ → Automated Planning (POP & GraphPlan)
-├── Module4/ → MDP + Reinforcement Learning for Patrol Allocation
-├── Module5/ → LLM-Based Operational Briefing (Prompt Engineering)
-├── PDF report
-└── README.md ← (this file)
+### AI-Driven Wildlife Poaching Prevention System
+
+ Module1/ → Bayesian Network for Poaching Risk Estimation
+
+ Module2/ → Search-Based Ranger & Drone Patrol Routing
+
+ Module3/ → Automated Planning (POP & GraphPlan)
+
+ Module4/ → MDP + Reinforcement Learning for Patrol Allocation
+
+ Module5/ → LLM-Based Operational Briefing (Prompt Engineering)
+
+ PDF report
+
+ README.md ← (this file)
 
 
 Each module folder contains:
@@ -143,5 +149,6 @@ No execution — documentation only.
 - Konisa Sai Sriyuktha — 25CS06016  
 - Seepana Mithun — 25CS06019  
 - Singi Maharshi — 25CS06021  
+
 
 ---
